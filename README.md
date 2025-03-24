@@ -1,22 +1,38 @@
+# Tableau Project Repository
 
-# Tableau Projects ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
-
-This project uses Tableau to visualize salaries for data science jobs, providing insights into the current market trends
-
-## Data Science JobSalary Insights
-
-This interactive Tableau dashboard provides a comprehensive overview of data science salaries across various dimensions, exploring relationships between salaries and factors such as experience level, employment type, country, company size, and job title. The visualization includes 7 interactive sheets, allowing users to compare average salaries by experience level, employment type, country, company size, and job title, as well as identify standard salary levels for data science professionals. Based on a robust dataset, this project aims to provide actionable insights for data science professionals, employers, and educators, helping them make informed decisions about salaries and career development.
-
- ## Key Features:
-
-- Interactive Dashboard: Explore data science salaries by location, industry, experience level, and job title.
-- Salary Distribution: Visualize the distribution of salaries for different data science roles.
-- Location-Based Insights: Compare salaries across different cities and countries.
+[![Tableau](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
 
 
-## Data Source:
-Kaggle (https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+A meticulously curated collection of dynamic and insightful data visualizations. This repository is a centralized hub for various Tableau dashboards, each designed to provide unique perspectives and meaningful insights into diverse datasets.
 
-## Tools Used:
+---
 
-- Tableau
+## Repository Highlights:
+
+- **Exploratory Data Visualization:** Engage with interactive and visually appealing data visualizations created using Tableau, offering an immersive exploration of datasets.
+
+- **Diverse Topics:** Explore dashboards covering a range of topics, including but not limited to streaming services analysis, stock market trends, and regional real estate dynamics.
+
+- **Continuous Expansion:** This repository is a living project, with plans for ongoing expansion. Expect the addition of new dashboards that delve into different aspects of data analytics and visualization.
+
+---
+
+## Check Out My Work
+
+Explore my Tableau profile and visualizations on Tableau Public:
+
+[![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/vetrivel.maheswaran/vizzes)
+# Contributing, Usage, and Issue Reporting
+
+Thank you for considering contributing to this repository and exploring the Tableau dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection.
+
+
+## Report Issues
+
+If you encounter any issues or have suggestions, we encourage you to open an issue on the [Issue Tracker]([https://github.com/virajbhutada/Tableau_Dashboards/issues](https://github.com/Vetrivel07/Tableau-Projects/issues)). Your feedback is invaluable and contributes to the ongoing improvement of this project.
+
+---
+
+## Connect With Me 🌐
+
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/vetrivel-maheswaran/)**
