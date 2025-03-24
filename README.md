@@ -3,7 +3,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/app/profile/vetrivel.maheswaran/vizzes)
 
 
-A meticulously curated collection of dynamic and insightful data visualizations. This repository is a centralized hub for various Tableau dashboards, each designed to provide unique perspectives and meaningful insights into diverse datasets.
+Welcome to my Tableau Portfolio! This repository showcases my data visualization skills through various projects, exploring different domains and industries. Browse through to see my work
 
 ---
 
