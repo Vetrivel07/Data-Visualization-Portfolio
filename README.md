@@ -5,7 +5,6 @@
 
 Welcome to my Tableau Portfolio! This repository showcases my data visualization skills through various projects, exploring different domains and industries. Browse through to see my work
 
----
 
 ## Repository Highlights:
 
@@ -15,16 +14,12 @@ Welcome to my Tableau Portfolio! This repository showcases my data visualization
 
 - **Continuous Expansion:** This repository is a living project, with plans for ongoing expansion. Expect the addition of new dashboards that delve into different aspects of data analytics and visualization.
 
----
 
 ## Check Out My Work
 
 Explore my Tableau profile and visualizations on Tableau Public:
 
 [![Tableau](https://img.shields.io/badge/Tableau-Vetrivel-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/vetrivel.maheswaran/vizzes)
-# Contributing, Usage, and Issue Reporting
-
-Thank you for considering contributing to this repository and exploring the Tableau dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection.
 
 
 ## Report Issues
