@@ -30,4 +30,4 @@ If you encounter any issues or have suggestions, we encourage you to open an iss
 
 ## Connect With Me 🌐
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/vetrivel-maheswaran/)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vetrivel%20Maheswaran-blue?logo=linkedin)](https://www.linkedin.com/in/vetrivel-maheswaran/)**
