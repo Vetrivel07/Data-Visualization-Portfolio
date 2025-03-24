@@ -21,7 +21,7 @@ A meticulously curated collection of dynamic and insightful data visualizations.
 
 Explore my Tableau profile and visualizations on Tableau Public:
 
-[![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/vetrivel.maheswaran/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-vetrivel-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/vetrivel.maheswaran/vizzes)
 # Contributing, Usage, and Issue Reporting
 
 Thank you for considering contributing to this repository and exploring the Tableau dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection.
@@ -29,7 +29,7 @@ Thank you for considering contributing to this repository and exploring the Tabl
 
 ## Report Issues
 
-If you encounter any issues or have suggestions, we encourage you to open an issue on the [Issue Tracker]([https://github.com/virajbhutada/Tableau_Dashboards/issues](https://github.com/Vetrivel07/Tableau-Projects/issues)). Your feedback is invaluable and contributes to the ongoing improvement of this project.
+If you encounter any issues or have suggestions, we encourage you to open an issue on the [Issue Tracker](https://github.com/Vetrivel07/Tableau-Projects/issues). Your feedback is invaluable and contributes to the ongoing improvement of this project.
 
 ---
 
