@@ -15,7 +15,7 @@ This interactive Tableau dashboard provides a comprehensive overview of data sci
 
 
 ## Data Source:
-[Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+- [Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
 ## Tools Used:
 
