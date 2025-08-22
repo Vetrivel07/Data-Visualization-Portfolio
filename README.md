@@ -4,9 +4,9 @@ This repository contains all my **Data Analysis and Visualization projects**, or
 
 It brings together different approaches and tools — from **Python-based exploratory analysis** to **dashboarding in Power BI and Tableau**. The goal is to showcase how data can be transformed into actionable insights using a mix of coding, visualization, and analytics.
 
-[![Tableau](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/app/profile/vetrivel.maheswaran/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-blue)](https://github.com/Vetrivel07/Data-Visualization-Portfolio/tree/main/DataScience-JobSalary-Insights)
 
-[![PowerBI](https://img.shields.io/badge/PowerBI-Public-yellow)](https://public.tableau.com/app/profile/vetrivel.maheswaran/vizzes)
+[![PowerBI](https://img.shields.io/badge/PowerBI-Public-yellow)](https://github.com/Vetrivel07/Data-Visualization-Portfolio/tree/main/Sales-Analysis-Dashboard)
 
 
 ---
