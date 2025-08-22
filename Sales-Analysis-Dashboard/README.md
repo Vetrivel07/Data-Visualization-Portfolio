@@ -1,6 +1,5 @@
 # Sales Analysis Dashboard
 
-## 📌 Project Overview
 This project is a **Sales Analysis Dashboard** built using **Microsoft Power BI**.  
 It provides actionable insights into **revenue, profit, cost, and sales distribution** across multiple countries and products.  
 
@@ -13,12 +12,12 @@ By leveraging interactive visualizations, the dashboard helps businesses:
 
 ---
 
-## 🖼️ Dashboard Preview
-![Sales Dashboard](/Sales-Analysis-Revenue-Insights/sales_dashboard.png)
+## Dashboard Preview
+![Sales Dashboard](/Sales-Analysis-Dashboard/sales_dashboard.png)
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Power BI**: Dashboard development and data visualization
 - **Excel / CSV**: Data source for sales records
 - **DAX**: Used for calculated measures and KPIs
